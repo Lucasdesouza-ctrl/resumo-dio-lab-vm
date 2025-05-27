@@ -1,1 +1,3 @@
-# resumo-dio-lab-vm
+## Resumo
+
+O objetivo deste laboratório foi criar e configurar uma máquina virtual (VM) usando a plataforma Microsoft Azure. Durante a atividade, acessamos o portal do Azure e seguimos os passos para escolher as configurações da VM, como o sistema operacional, tamanho da máquina, região e rede. Também configuramos as opções de segurança e finalizamos a criação da VM. Depois disso, testamos o acesso remoto via RDP ou SSH, dependendo do sistema utilizado. Essa prática ajudou a entender melhor como funciona a criação de ambientes virtuais na nuvem, o modelo de Infraestrutura como Serviço (IaaS) e alguns cuidados importantes com segurança e desempenho.
